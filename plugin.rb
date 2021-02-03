@@ -1,5 +1,5 @@
 # name: discourse-plugin-site-setting-override
-# about: Example plugin to override a site setting
+# about: Override site settings
 # version: 1.0.0
-# authors: Joshua Rosenfeld
-# url: https://github.com/jomaxro/discourse-plugin-site-setting-override
+# authors: Adam Ford
+# url: https://github.com/afdy/discourse-plugin-site-setting-override
