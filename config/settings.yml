@@ -3,3 +3,15 @@ posting:
     client: true
     default: 32000
     max: 150000
+
+android_app_id:
+  default: "com.eastleigh.online.app.p"
+    hidden: true
+    
+ios_app_id:
+  default: "1544450507"
+   hidden: true
+   
+native_app_install_banner_ios: false
+
+native_app_install_banner_android: true
