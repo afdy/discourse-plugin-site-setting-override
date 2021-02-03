@@ -1,9 +1,3 @@
-posting:
-  max_post_length:
-    client: true
-    default: 32000
-    max: 150000
-
 android_app_id:
   default: "com.eastleigh.online.app.p"
     hidden: true
