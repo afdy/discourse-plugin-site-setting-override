@@ -1,12 +1,9 @@
 uncategorized:
   android_app_id:
     default: "com.eastleigh.online.app.p"
-    hidden: true
-
+    hidden: false
   ios_app_id:
     default: "1544450507"
-    hidden: true
-
+    hidden: false
   native_app_install_banner_ios: false
-
   native_app_install_banner_android: true
